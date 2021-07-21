@@ -58,8 +58,8 @@
     padding: 10px;
     flex: 50%;
   }
-  
-  /* Responsive layout - makes a one column-layout instead of two-column layout */
+   
+
   @media (max-width: 800px) {
     .flex-container {
       flex-direction: column;
@@ -70,48 +70,3 @@
     }
   }
 
-
-/* 
-@media (min-width: 330px) {    
-    .titulo { 
-        width: 387px; 
-    }
-} */
-
-/* 
-#principal{
-    height: 100%;
-    background: #f4c13b !important;
-}
-
-html, body , #app{
-    height: 100%;
-}
-body {
-    overflow-x: hidden; 
-} 
-
-
-#titulologin{
-    color: white !important;
-}
-
-footer {
-    position: fixed;
-    height: 20px;
-    bottom: 0;
-    width: 100%;
-    background-color: #38494c;
-}
-
-.menu {
-    background-color: #ffc107 !important;
-}
-
-.textorespuesta{
-    color: #446d76;
-}
-
-.pointer {cursor: pointer;}
-
- */
