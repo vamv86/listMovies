@@ -8,7 +8,7 @@
 
 <script>
 
-import ListadoPeliculas from "./components/Default.vue"
+import ListadoPeliculas from "./components/MovieList.vue"
 
 export default {
   name: "app",
