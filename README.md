@@ -7,6 +7,16 @@ colección a gusto.
 El usuario, si desea, debe poder hacer una búsqueda por nombre / título de
 una película en este catálogo.
 
+
+### Implementacion y tecnologias usada
+
+- [Vue](https://vuejs.org/)
+
+### Url Web
+
+URL Azure: https://webmovies.z21.web.core.windows.net/
+
+
 A continuación las instrucciones para poder ejecutar el codigo fuente: 
 
 ## Instalación
