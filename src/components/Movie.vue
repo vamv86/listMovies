@@ -1,11 +1,7 @@
 <template>
   <div class="margin_card_top">
-
-
     <b-card  :title="titulo" :img-src="src" img-alt="Image" img-top  class="card-movie" :sub-title="year">
     </b-card>
-
- 
   </div>
 </template>
 

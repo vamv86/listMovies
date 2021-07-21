@@ -11,4 +11,8 @@ export default class peliculaProxy {
              return this.axios.get(this.url + `&s=${titulo}&page=${page}`);  
         }
     }
+
+    getMovieDetail(id) {       
+        return this.axios.get(this.url + `&i=${id}&plot=full`);
+    }
 }
