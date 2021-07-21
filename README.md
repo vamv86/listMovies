@@ -1,4 +1,4 @@
-# app
+# Listado de películas
 
 ## Instalación
 ```
