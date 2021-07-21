@@ -8,7 +8,7 @@ import PeliculaProxy from './PeliculaProxy';
 // Axios default behavior
 Axios.defaults.headers.common.Accept = 'application/json';
 
-let url = 'http://www.omdbapi.com/?apikey=631ff213';
+let url = 'https://www.omdbapi.com/?apikey=631ff213';
 
 
 export default {
